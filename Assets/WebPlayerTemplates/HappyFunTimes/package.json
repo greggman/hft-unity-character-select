@@ -1,0 +1,15 @@
+{
+  "dependencies": {},
+  "description": "Example allowing player to select a character",
+  "happyFunTimes": {
+    "apiVersion": "1.12.0",
+    "category": "example",
+    "gameId": "hft-unity-character-select",
+    "gameType": "Unity3D",
+    "minPlayers": 1,
+    "name": "Unity Character Selection Example"
+  },
+  "name": "Unity-Character-Selection",
+  "private": false,
+  "version": "0.0.12"
+}
